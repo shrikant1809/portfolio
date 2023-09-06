@@ -33,3 +33,4 @@ function animateText() {
 
 // Start the animation
 animateText();
+// changes
